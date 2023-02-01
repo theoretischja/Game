@@ -1,0 +1,14 @@
+
+
+
+.card {
+    background-color: sienna;
+    width: 100px;
+    height: 100px;
+}
+
+#game_area {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100vw;
+}

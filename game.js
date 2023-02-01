@@ -1,4 +1,5 @@
 //GAME
+//requirements: Build a game using HTML, CSS and JavaScript.
 //outline: memory game with 8 cards that needs to you match anime characters from the same show
 //features: shows randomised anime gif when you win; displays result; displays highscore (for as long as you don't exit the game)
 
